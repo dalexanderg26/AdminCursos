@@ -1,0 +1,222 @@
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\Negocio.dll.config
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\Negocio.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\Negocio.pdb
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\netstandard.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.AppContext.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Collections.Concurrent.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Collections.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Collections.Specialized.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.ComponentModel.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.ComponentModel.Primitives.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Console.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Data.Common.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Diagnostics.Contracts.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Diagnostics.Debug.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Diagnostics.Process.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Diagnostics.Tools.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Diagnostics.TraceSource.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Diagnostics.Tracing.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Drawing.Primitives.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Dynamic.Runtime.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Globalization.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Globalization.Extensions.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.IO.Compression.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.IO.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.IO.FileSystem.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.IO.IsolatedStorage.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.IO.Pipes.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Linq.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Linq.Expressions.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Linq.Parallel.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Linq.Queryable.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Net.Http.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Net.NameResolution.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Net.NetworkInformation.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Net.Ping.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Net.Primitives.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Net.Requests.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Net.Security.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Net.Sockets.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Net.WebHeaderCollection.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Net.WebSockets.Client.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Net.WebSockets.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.ObjectModel.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Reflection.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Reflection.Extensions.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Reflection.Primitives.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Resources.Reader.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Resources.ResourceManager.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Resources.Writer.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Runtime.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Runtime.Extensions.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Runtime.Handles.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Runtime.InteropServices.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Runtime.Numerics.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Runtime.Serialization.Json.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Security.Claims.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Security.Cryptography.Csp.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Security.Principal.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Security.SecureString.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Text.Encoding.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Text.Encoding.Extensions.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Text.RegularExpressions.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Threading.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Threading.Overlapped.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Threading.Tasks.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Threading.Thread.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Threading.ThreadPool.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Threading.Timer.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.ValueTuple.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Xml.XDocument.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Xml.XmlSerializer.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Xml.XPath.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\Interfaces.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\Modelo.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\MySql.Data.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\Google.Protobuf.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\Modelo.pdb
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\Interfaces.pdb
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\bin\Release\MySql.Data.xml
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\obj\Release\Controladores.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\obj\Release\Controladores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\obj\Release\Controladores.csproj.CopyComplete
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\obj\Release\Negocio.dll
+C:\Users\Usuario\source\repos\AdminCursos\Negocio\obj\Release\Negocio.pdb
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\Negocio.dll.config
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\Negocio.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\Negocio.pdb
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\Microsoft.Win32.Primitives.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\netstandard.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.AppContext.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Collections.Concurrent.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Collections.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Collections.NonGeneric.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Collections.Specialized.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.ComponentModel.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.ComponentModel.EventBasedAsync.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.ComponentModel.Primitives.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.ComponentModel.TypeConverter.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Console.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Data.Common.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Diagnostics.Contracts.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Diagnostics.Debug.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Diagnostics.FileVersionInfo.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Diagnostics.Process.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Diagnostics.StackTrace.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Diagnostics.Tools.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Diagnostics.TraceSource.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Diagnostics.Tracing.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Drawing.Primitives.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Dynamic.Runtime.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Globalization.Calendars.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Globalization.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Globalization.Extensions.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.IO.Compression.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.IO.Compression.ZipFile.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.IO.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.IO.FileSystem.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.IO.FileSystem.DriveInfo.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.IO.FileSystem.Primitives.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.IO.FileSystem.Watcher.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.IO.IsolatedStorage.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.IO.MemoryMappedFiles.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.IO.Pipes.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.IO.UnmanagedMemoryStream.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Linq.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Linq.Expressions.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Linq.Parallel.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Linq.Queryable.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Net.Http.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Net.NameResolution.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Net.NetworkInformation.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Net.Ping.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Net.Primitives.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Net.Requests.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Net.Security.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Net.Sockets.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Net.WebHeaderCollection.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Net.WebSockets.Client.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Net.WebSockets.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.ObjectModel.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Reflection.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Reflection.Extensions.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Reflection.Primitives.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Resources.Reader.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Resources.ResourceManager.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Resources.Writer.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Runtime.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Runtime.Extensions.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Runtime.Handles.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Runtime.InteropServices.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Runtime.Numerics.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Runtime.Serialization.Formatters.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Runtime.Serialization.Json.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Runtime.Serialization.Primitives.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Runtime.Serialization.Xml.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Security.Claims.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Security.Cryptography.Algorithms.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Security.Cryptography.Csp.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Security.Cryptography.Encoding.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Security.Cryptography.Primitives.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Security.Cryptography.X509Certificates.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Security.Principal.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Security.SecureString.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Text.Encoding.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Text.Encoding.Extensions.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Text.RegularExpressions.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Threading.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Threading.Overlapped.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Threading.Tasks.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Threading.Tasks.Parallel.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Threading.Thread.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Threading.ThreadPool.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Threading.Timer.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.ValueTuple.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Xml.ReaderWriter.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Xml.XDocument.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Xml.XmlDocument.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Xml.XmlSerializer.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Xml.XPath.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\System.Xml.XPath.XDocument.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\Interfaces.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\Modelo.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\MySql.Data.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\Google.Protobuf.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\Modelo.pdb
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\Interfaces.pdb
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\bin\Release\MySql.Data.xml
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\obj\Release\Controladores.csprojAssemblyReference.cache
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\obj\Release\Controladores.csproj.CoreCompileInputs.cache
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\obj\Release\Controladores.csproj.CopyComplete
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\obj\Release\Negocio.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Negocio\obj\Release\Negocio.pdb

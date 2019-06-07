@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AdminCursosModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <Function Name="ActualizarCurso" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="CursoId" Type="int" Mode="In" />
+    <Parameter Name="Nombre" Type="varchar" Mode="In" />
+    <Parameter Name="Descripcion" Type="varchar" Mode="In" />
+    <Parameter Name="FechaInicio" Type="datetime" Mode="In" />
+    <Parameter Name="FechaFin" Type="datetime" Mode="In" />
+    <Parameter Name="FechaLimiteInscripcion" Type="datetime" Mode="In" />
+    <Parameter Name="Horas" Type="int" Mode="In" />
+    <Parameter Name="TotalCupos" Type="int" Mode="In" />
+    <Parameter Name="Eliminado" Type="bit" Mode="In" />
+    <Parameter Name="IdModalidad" Type="int" Mode="In" />
+  </Function>
+  <Function Name="ActualizarEstudiante" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="EstudianteId" Type="int" Mode="In" />
+    <Parameter Name="IdTipoDocumento" Type="int" Mode="In" />
+    <Parameter Name="NumeroDocumento" Type="varchar" Mode="In" />
+    <Parameter Name="PrimerNombre" Type="varchar" Mode="In" />
+    <Parameter Name="SegundoNombre" Type="varchar" Mode="In" />
+    <Parameter Name="PrimerApellido" Type="varchar" Mode="In" />
+    <Parameter Name="SegundoApellido" Type="varchar" Mode="In" />
+    <Parameter Name="CorreoElectronico" Type="varchar" Mode="In" />
+    <Parameter Name="Celular" Type="varchar" Mode="In" />
+    <Parameter Name="Eliminado" Type="bit" Mode="In" />
+  </Function>
+  <Function Name="ActualizarInscripcion" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdInscripcion" Type="int" Mode="In" />
+    <Parameter Name="IdEstudiante" Type="int" Mode="In" />
+    <Parameter Name="IdCurso" Type="int" Mode="In" />
+    <Parameter Name="FechaInscripcion" Type="datetime" Mode="In" />
+    <Parameter Name="Nota" Type="float" Mode="In" />
+  </Function>
+  <Function Name="ActualizarModalidad" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Id" Type="int" Mode="In" />
+    <Parameter Name="Nombre" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="ActualizarNota" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Id" Type="int" Mode="In" />
+    <Parameter Name="IdEstudiante" Type="int" Mode="In" />
+    <Parameter Name="IdCurso" Type="int" Mode="In" />
+    <Parameter Name="FechaInscripcion" Type="datetime" Mode="In" />
+    <Parameter Name="Nota" Type="float" Mode="In" />
+  </Function>
+  <Function Name="ActualizarTipoDocumento" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="pId" Type="int" Mode="In" />
+    <Parameter Name="pTipoDocumento" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="AgregarCurso" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Nombre" Type="varchar" Mode="In" />
+    <Parameter Name="Descripcion" Type="varchar" Mode="In" />
+    <Parameter Name="FechaInicio" Type="datetime" Mode="In" />
+    <Parameter Name="FechaFin" Type="datetime" Mode="In" />
+    <Parameter Name="FechaLimiteInscripcion" Type="datetime" Mode="In" />
+    <Parameter Name="Horas" Type="int" Mode="In" />
+    <Parameter Name="TotalCupos" Type="int" Mode="In" />
+    <Parameter Name="Eliminado" Type="bit" Mode="In" />
+    <Parameter Name="IdModalidad" Type="int" Mode="In" />
+  </Function>
+  <Function Name="AgregarEstudiante" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdTipoDocumento" Type="int" Mode="In" />
+    <Parameter Name="NumeroDocumento" Type="varchar" Mode="In" />
+    <Parameter Name="PrimerNombre" Type="varchar" Mode="In" />
+    <Parameter Name="SegundoNombre" Type="varchar" Mode="In" />
+    <Parameter Name="PrimerApellido" Type="varchar" Mode="In" />
+    <Parameter Name="SegundoApellido" Type="varchar" Mode="In" />
+    <Parameter Name="CorreoElectronico" Type="varchar" Mode="In" />
+    <Parameter Name="Celular" Type="varchar" Mode="In" />
+    <Parameter Name="Eliminado" Type="bit" Mode="In" />
+  </Function>
+  <Function Name="AgregarInscripcion" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdEstudiante" Type="int" Mode="In" />
+    <Parameter Name="IdCurso" Type="int" Mode="In" />
+    <Parameter Name="FechaInscripcion" Type="datetime" Mode="In" />
+    <Parameter Name="Nota" Type="float" Mode="In" />
+  </Function>
+  <Function Name="AgregarModalidad" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Nombre" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="AgregarTipoDocumento" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="pTipoDocumento" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="ObtenerCursos" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdCurso" Type="int" Mode="In" />
+  </Function>
+  <Function Name="ObtenerEstudiante" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdEstudiante" Type="int" Mode="In" />
+  </Function>
+  <Function Name="ObtenerInscripciones" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="IdInscripcion" Type="int" Mode="In" />
+  </Function>
+  <Function Name="ObtenerModalidad" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="pId" Type="int" Mode="In" />
+  </Function>
+  <Function Name="ObtenerTipoDocumento" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="pId" Type="int" Mode="In" />
+  </Function>
+  <EntityContainer Name="AdminCursosModelStoreContainer" />
+</Schema>

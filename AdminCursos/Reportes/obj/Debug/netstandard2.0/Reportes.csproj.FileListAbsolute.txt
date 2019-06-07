@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\AdminCursos\Reportes\bin\Debug\netstandard2.0\Reportes.deps.json
+C:\Users\Usuario\source\repos\AdminCursos\Reportes\bin\Debug\netstandard2.0\Reportes.dll
+C:\Users\Usuario\source\repos\AdminCursos\Reportes\bin\Debug\netstandard2.0\Reportes.pdb
+C:\Users\Usuario\source\repos\AdminCursos\Reportes\obj\Debug\netstandard2.0\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AdminCursos\Reportes\obj\Debug\netstandard2.0\Reportes.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\AdminCursos\Reportes\obj\Debug\netstandard2.0\Reportes.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\AdminCursos\Reportes\obj\Debug\netstandard2.0\Reportes.dll
+C:\Users\Usuario\source\repos\AdminCursos\Reportes\obj\Debug\netstandard2.0\Reportes.pdb

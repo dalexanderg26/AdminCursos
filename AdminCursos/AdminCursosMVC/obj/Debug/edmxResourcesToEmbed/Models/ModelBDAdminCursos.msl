@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AdminCursosModelStoreContainer" CdmEntityContainer="AdminCursosEntities">
+    <FunctionImportMapping FunctionImportName="ActualizarCurso" FunctionName="AdminCursosModel.Store.ActualizarCurso" />
+    <FunctionImportMapping FunctionImportName="ActualizarEstudiante" FunctionName="AdminCursosModel.Store.ActualizarEstudiante" />
+    <FunctionImportMapping FunctionImportName="ActualizarInscripcion" FunctionName="AdminCursosModel.Store.ActualizarInscripcion" />
+    <FunctionImportMapping FunctionImportName="ActualizarModalidad" FunctionName="AdminCursosModel.Store.ActualizarModalidad" />
+    <FunctionImportMapping FunctionImportName="ActualizarNota" FunctionName="AdminCursosModel.Store.ActualizarNota" />
+    <FunctionImportMapping FunctionImportName="ActualizarTipoDocumento" FunctionName="AdminCursosModel.Store.ActualizarTipoDocumento" />
+    <FunctionImportMapping FunctionImportName="AgregarCurso" FunctionName="AdminCursosModel.Store.AgregarCurso" />
+    <FunctionImportMapping FunctionImportName="AgregarEstudiante" FunctionName="AdminCursosModel.Store.AgregarEstudiante" />
+    <FunctionImportMapping FunctionImportName="AgregarInscripcion" FunctionName="AdminCursosModel.Store.AgregarInscripcion" />
+    <FunctionImportMapping FunctionImportName="AgregarModalidad" FunctionName="AdminCursosModel.Store.AgregarModalidad" />
+    <FunctionImportMapping FunctionImportName="AgregarTipoDocumento" FunctionName="AdminCursosModel.Store.AgregarTipoDocumento" />
+    <FunctionImportMapping FunctionImportName="ObtenerCursos" FunctionName="AdminCursosModel.Store.ObtenerCursos">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="AdminCursosModel.ObtenerCursos_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="FechaInicio" ColumnName="FechaInicio" />
+          <ScalarProperty Name="FechaFin" ColumnName="FechaFin" />
+          <ScalarProperty Name="FechaLimiteInscripcion" ColumnName="FechaLimiteInscripcion" />
+          <ScalarProperty Name="Horas" ColumnName="Horas" />
+          <ScalarProperty Name="TotalCupos" ColumnName="TotalCupos" />
+          <ScalarProperty Name="IdModalidad" ColumnName="IdModalidad" />
+          <ScalarProperty Name="NombreModalidad" ColumnName="NombreModalidad" />
+          <ScalarProperty Name="Eliminado" ColumnName="Eliminado" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ObtenerEstudiante" FunctionName="AdminCursosModel.Store.ObtenerEstudiante">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="AdminCursosModel.ObtenerEstudiante_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="IdTipoDocumento" ColumnName="IdTipoDocumento" />
+          <ScalarProperty Name="NombreTD" ColumnName="NombreTD" />
+          <ScalarProperty Name="NumeroDocumento" ColumnName="NumeroDocumento" />
+          <ScalarProperty Name="PrimerNombre" ColumnName="PrimerNombre" />
+          <ScalarProperty Name="SegundoNombre" ColumnName="SegundoNombre" />
+          <ScalarProperty Name="PrimerApellido" ColumnName="PrimerApellido" />
+          <ScalarProperty Name="SegundoApellido" ColumnName="SegundoApellido" />
+          <ScalarProperty Name="CorreoElectronico" ColumnName="CorreoElectronico" />
+          <ScalarProperty Name="Celular" ColumnName="Celular" />
+          <ScalarProperty Name="Eliminado" ColumnName="Eliminado" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ObtenerInscripciones" FunctionName="AdminCursosModel.Store.ObtenerInscripciones">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="AdminCursosModel.ObtenerInscripciones_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdCurso" ColumnName="IdCurso" />
+          <ScalarProperty Name="NombreCurso" ColumnName="NombreCurso" />
+          <ScalarProperty Name="IdEstudiante" ColumnName="IdEstudiante" />
+          <ScalarProperty Name="NumeroDocumento" ColumnName="NumeroDocumento" />
+          <ScalarProperty Name="PrimerApellido" ColumnName="PrimerApellido" />
+          <ScalarProperty Name="SegundoApellido" ColumnName="SegundoApellido" />
+          <ScalarProperty Name="PrimerNombre" ColumnName="PrimerNombre" />
+          <ScalarProperty Name="SegundoNombre" ColumnName="SegundoNombre" />
+          <ScalarProperty Name="FechaInscripcion" ColumnName="FechaInscripcion" />
+          <ScalarProperty Name="Nota" ColumnName="Nota" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ObtenerModalidad" FunctionName="AdminCursosModel.Store.ObtenerModalidad" />
+    <FunctionImportMapping FunctionImportName="ObtenerTipoDocumento" FunctionName="AdminCursosModel.Store.ObtenerTipoDocumento">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="AdminCursosModel.ObtenerTipoDocumento_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

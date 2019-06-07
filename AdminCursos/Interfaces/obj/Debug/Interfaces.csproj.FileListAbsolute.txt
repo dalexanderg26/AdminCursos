@@ -1,0 +1,5 @@
+C:\Users\Usuario\source\repos\AdminCursos\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AdminCursos\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Usuario\source\repos\AdminCursos\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Usuario\source\repos\AdminCursos\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Usuario\source\repos\AdminCursos\Interfaces\obj\Debug\Interfaces.pdb

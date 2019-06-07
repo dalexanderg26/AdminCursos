@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Debug\netstandard2.0\Comun.deps.json
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Debug\netstandard2.0\Comun.dll
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Debug\netstandard2.0\Comun.pdb
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Debug\netstandard2.0\Comun.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Debug\netstandard2.0\Comun.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Debug\netstandard2.0\Comun.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Debug\netstandard2.0\Comun.dll
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Debug\netstandard2.0\Comun.pdb
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Debug\netstandard2.0\Comun.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Debug\netstandard2.0\Interfaces.dll
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Debug\netstandard2.0\Interfaces.pdb
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Debug\netstandard2.0\Comun.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\AdminCursos\Interfaces\bin\Release\Interfaces.dll
+C:\Users\Usuario\source\repos\AdminCursos\Interfaces\bin\Release\Interfaces.pdb
+C:\Users\Usuario\source\repos\AdminCursos\Interfaces\obj\Release\Interfaces.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\AdminCursos\Interfaces\obj\Release\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AdminCursos\Interfaces\obj\Release\Interfaces.dll
+C:\Users\Usuario\source\repos\AdminCursos\Interfaces\obj\Release\Interfaces.pdb
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Interfaces\bin\Release\Interfaces.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Interfaces\bin\Release\Interfaces.pdb
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Interfaces\obj\Release\Interfaces.csprojAssemblyReference.cache
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Interfaces\obj\Release\Interfaces.csproj.CoreCompileInputs.cache
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Interfaces\obj\Release\Interfaces.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Interfaces\obj\Release\Interfaces.pdb

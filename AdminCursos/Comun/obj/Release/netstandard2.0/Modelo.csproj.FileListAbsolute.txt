@@ -1,0 +1,28 @@
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Release\netstandard2.0\Modelo.deps.json
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Release\netstandard2.0\Modelo.dll
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Release\netstandard2.0\Modelo.pdb
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Release\netstandard2.0\Interfaces.dll
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Release\netstandard2.0\MySql.Data.dll
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Release\netstandard2.0\System.Data.DataSetExtensions.dll
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Release\netstandard2.0\Google.Protobuf.dll
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Release\netstandard2.0\Interfaces.pdb
+C:\Users\Usuario\source\repos\AdminCursos\Comun\bin\Release\netstandard2.0\MySql.Data.xml
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.csproj.CopyComplete
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.dll
+C:\Users\Usuario\source\repos\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.pdb
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.csprojAssemblyReference.cache
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.AssemblyInfo.cs
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.pdb
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Comun\bin\Release\netstandard2.0\Modelo.deps.json
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Comun\bin\Release\netstandard2.0\Modelo.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Comun\bin\Release\netstandard2.0\Modelo.pdb
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Comun\bin\Release\netstandard2.0\Interfaces.dll
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Comun\bin\Release\netstandard2.0\Interfaces.pdb
+E:\Documentos Diego\Especializacion\Actual\Informatica 1\mvc\AdminCursos\Comun\obj\Release\netstandard2.0\Modelo.csproj.CopyComplete

@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AdminCursosModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="AdminCursosEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="ActualizarCurso">
+      <Parameter Name="CursoId" Mode="In" Type="Int32" />
+      <Parameter Name="Nombre" Mode="In" Type="String" />
+      <Parameter Name="Descripcion" Mode="In" Type="String" />
+      <Parameter Name="FechaInicio" Mode="In" Type="DateTime" />
+      <Parameter Name="FechaFin" Mode="In" Type="DateTime" />
+      <Parameter Name="FechaLimiteInscripcion" Mode="In" Type="DateTime" />
+      <Parameter Name="Horas" Mode="In" Type="Int32" />
+      <Parameter Name="TotalCupos" Mode="In" Type="Int32" />
+      <Parameter Name="Eliminado" Mode="In" Type="Boolean" />
+      <Parameter Name="IdModalidad" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="ActualizarEstudiante">
+      <Parameter Name="EstudianteId" Mode="In" Type="Int32" />
+      <Parameter Name="IdTipoDocumento" Mode="In" Type="Int32" />
+      <Parameter Name="NumeroDocumento" Mode="In" Type="String" />
+      <Parameter Name="PrimerNombre" Mode="In" Type="String" />
+      <Parameter Name="SegundoNombre" Mode="In" Type="String" />
+      <Parameter Name="PrimerApellido" Mode="In" Type="String" />
+      <Parameter Name="SegundoApellido" Mode="In" Type="String" />
+      <Parameter Name="CorreoElectronico" Mode="In" Type="String" />
+      <Parameter Name="Celular" Mode="In" Type="String" />
+      <Parameter Name="Eliminado" Mode="In" Type="Boolean" />
+    </FunctionImport>
+    <FunctionImport Name="ActualizarInscripcion">
+      <Parameter Name="IdInscripcion" Mode="In" Type="Int32" />
+      <Parameter Name="IdEstudiante" Mode="In" Type="Int32" />
+      <Parameter Name="IdCurso" Mode="In" Type="Int32" />
+      <Parameter Name="FechaInscripcion" Mode="In" Type="DateTime" />
+      <Parameter Name="Nota" Mode="In" Type="Double" />
+    </FunctionImport>
+    <FunctionImport Name="ActualizarModalidad">
+      <Parameter Name="Id" Mode="In" Type="Int32" />
+      <Parameter Name="Nombre" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="ActualizarNota">
+      <Parameter Name="Id" Mode="In" Type="Int32" />
+      <Parameter Name="IdEstudiante" Mode="In" Type="Int32" />
+      <Parameter Name="IdCurso" Mode="In" Type="Int32" />
+      <Parameter Name="FechaInscripcion" Mode="In" Type="DateTime" />
+      <Parameter Name="Nota" Mode="In" Type="Double" />
+    </FunctionImport>
+    <FunctionImport Name="ActualizarTipoDocumento">
+      <Parameter Name="pId" Mode="In" Type="Int32" />
+      <Parameter Name="pTipoDocumento" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="AgregarCurso">
+      <Parameter Name="Nombre" Mode="In" Type="String" />
+      <Parameter Name="Descripcion" Mode="In" Type="String" />
+      <Parameter Name="FechaInicio" Mode="In" Type="DateTime" />
+      <Parameter Name="FechaFin" Mode="In" Type="DateTime" />
+      <Parameter Name="FechaLimiteInscripcion" Mode="In" Type="DateTime" />
+      <Parameter Name="Horas" Mode="In" Type="Int32" />
+      <Parameter Name="TotalCupos" Mode="In" Type="Int32" />
+      <Parameter Name="Eliminado" Mode="In" Type="Boolean" />
+      <Parameter Name="IdModalidad" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="AgregarEstudiante">
+      <Parameter Name="IdTipoDocumento" Mode="In" Type="Int32" />
+      <Parameter Name="NumeroDocumento" Mode="In" Type="String" />
+      <Parameter Name="PrimerNombre" Mode="In" Type="String" />
+      <Parameter Name="SegundoNombre" Mode="In" Type="String" />
+      <Parameter Name="PrimerApellido" Mode="In" Type="String" />
+      <Parameter Name="SegundoApellido" Mode="In" Type="String" />
+      <Parameter Name="CorreoElectronico" Mode="In" Type="String" />
+      <Parameter Name="Celular" Mode="In" Type="String" />
+      <Parameter Name="Eliminado" Mode="In" Type="Boolean" />
+    </FunctionImport>
+    <FunctionImport Name="AgregarInscripcion">
+      <Parameter Name="IdEstudiante" Mode="In" Type="Int32" />
+      <Parameter Name="IdCurso" Mode="In" Type="Int32" />
+      <Parameter Name="FechaInscripcion" Mode="In" Type="DateTime" />
+      <Parameter Name="Nota" Mode="In" Type="Double" />
+    </FunctionImport>
+    <FunctionImport Name="AgregarModalidad">
+      <Parameter Name="Nombre" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="AgregarTipoDocumento">
+      <Parameter Name="pTipoDocumento" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="ObtenerCursos" ReturnType="Collection(AdminCursosModel.ObtenerCursos_Result)">
+      <Parameter Name="IdCurso" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="ObtenerEstudiante" ReturnType="Collection(AdminCursosModel.ObtenerEstudiante_Result)">
+      <Parameter Name="IdEstudiante" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="ObtenerInscripciones" ReturnType="Collection(AdminCursosModel.ObtenerInscripciones_Result)">
+      <Parameter Name="IdInscripcion" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="ObtenerModalidad">
+      <Parameter Name="pId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="ObtenerTipoDocumento" ReturnType="Collection(AdminCursosModel.ObtenerTipoDocumento_Result)">
+      <Parameter Name="pId" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="ObtenerCursos_Result">
+    <Property Type="Int32" Name="id" Nullable="false" />
+    <Property Type="String" Name="Nombre" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="Descripcion" Nullable="true" MaxLength="4000" />
+    <Property Type="DateTime" Name="FechaInicio" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="FechaFin" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="FechaLimiteInscripcion" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="Horas" Nullable="true" />
+    <Property Type="Int32" Name="TotalCupos" Nullable="true" />
+    <Property Type="Int32" Name="IdModalidad" Nullable="true" />
+    <Property Type="String" Name="NombreModalidad" Nullable="false" MaxLength="1" />
+    <Property Type="Boolean" Name="Eliminado" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="ObtenerEstudiante_Result">
+    <Property Type="Int32" Name="id" Nullable="false" />
+    <Property Type="Int32" Name="IdTipoDocumento" Nullable="true" />
+    <Property Type="String" Name="NombreTD" Nullable="false" MaxLength="1" />
+    <Property Type="String" Name="NumeroDocumento" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="PrimerNombre" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="SegundoNombre" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="PrimerApellido" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="SegundoApellido" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="CorreoElectronico" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Celular" Nullable="true" MaxLength="50" />
+    <Property Type="Boolean" Name="Eliminado" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="ObtenerInscripciones_Result">
+    <Property Type="Int32" Name="Id" Nullable="false" />
+    <Property Type="Int32" Name="IdCurso" Nullable="true" />
+    <Property Type="String" Name="NombreCurso" Nullable="false" MaxLength="1" />
+    <Property Type="Int32" Name="IdEstudiante" Nullable="true" />
+    <Property Type="String" Name="NumeroDocumento" Nullable="false" MaxLength="1" />
+    <Property Type="String" Name="PrimerApellido" Nullable="false" MaxLength="1" />
+    <Property Type="String" Name="SegundoApellido" Nullable="false" MaxLength="1" />
+    <Property Type="String" Name="PrimerNombre" Nullable="false" MaxLength="1" />
+    <Property Type="String" Name="SegundoNombre" Nullable="false" MaxLength="1" />
+    <Property Type="DateTime" Name="FechaInscripcion" Nullable="true" Precision="23" />
+    <Property Type="Double" Name="Nota" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="ObtenerTipoDocumento_Result">
+    <Property Type="Int32" Name="id" Nullable="false" />
+    <Property Type="String" Name="nombre" Nullable="true" MaxLength="255" />
+  </ComplexType>
+</Schema>
